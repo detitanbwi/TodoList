@@ -269,7 +269,7 @@ class ActivityDetail extends StatelessWidget {
                       height: 40,
                       child: Center(
                         child: Text(
-                          'Delete',
+                          'Deletion',
                           style: TextStyle(color: Colors.white),
                         ),
                       ),
